@@ -1,3 +1,4 @@
+## PART 1
 # with open("day1.txt") as myFile:
 #     raw_array = myFile.readlines()
 # input_array = []
@@ -16,7 +17,7 @@
 # print(counter)
 
 
-
+# PART 2
 with open("day1.txt") as myFile:
     raw_array = myFile.readlines()
 input_array = []
